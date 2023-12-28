@@ -1,0 +1,158 @@
+{
+    "fashion": [
+        {
+            "id": 1,
+            "title": "Silky Red Swearhirt",
+            "img": "ComoUsarRosa.jpeg",
+            "price": 127.00
+        },
+        {
+            "id": 2,
+            "title": "Silky Red Swearhirt",
+            "img": "Rectangle-336-scaled.jpeg",
+            "price": 127.00
+        },
+        {
+            "id": 3,
+            "title": "Silky Red Swearhirt",
+            "img": "blue.png",
+            "price": 127.00
+        },
+        {
+            "id": 4,
+            "title": "Silky Red Swearhirt",
+            "img": "brown.jpg",
+            "price": 127.00
+        }
+    ],
+    "all": [
+        {
+            "id": 1,
+            "title": "Silky Red Swearhirt ",
+            "img": "ComoUsarRosa.jpeg",
+            "price": 127.00
+        },
+        {
+            "id": 2,
+            "title": "Silky Red Swearhirt ",
+            "img": "dress4.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 3,
+            "title": "Silky Red Swearhirt ",
+            "img": "hotsale2.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 4,
+            "title": "Silky Red Swearhirt ",
+            "img": "ass3.jpg",
+            "price": 127.00
+        }
+    ],
+    "diaper": [
+        {
+            "id": 1,
+            "title": "Silky Red Swearhirt ",
+            "img": "dress1.webp",
+            "price": 127.00
+        },
+        {
+            "id": 2,
+            "title": "Silky Red Swearhirt ",
+            "img": "dress2.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 3,
+            "title": "Silky Red Swearhirt ",
+            "img": "dress3.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 4,
+            "title": "Silky Red Swearhirt ",
+            "img": "dress4.jpg",
+            "price": 127.00
+        }
+    ],
+    "hot-sale": [
+        {
+            "id": 1,
+            "title": "Silky Red Swearhirt ",
+            "img": "hotsale1.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 2,
+            "title": "Silky Red Swearhirt ",
+            "img": "hotsale2.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 3,
+            "title": "Silky Red Swearhirt ",
+            "img": "hotsale3.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 4,
+            "title": "Silky Red Swearhirt ",
+            "img": "hotsale4.jpg",
+            "price": 127.00
+        }
+    ],
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Silky Red Swearhirt ",
+            "img": "shoe1.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 2,
+            "title": "Silky Red Swearhirt ",
+            "img": "shoe2.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 3,
+            "title": "Silky Red Swearhirt ",
+            "img": "shoe3.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 4,
+            "title": "Silky Red Swearhirt ",
+            "img": "shoe4.jpg",
+            "price": 127.00
+        }
+    ],
+    "accessories": [
+        {
+            "id": 1,
+            "title": "Silky Red Swearhirt ",
+            "img": "ass1.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 2,
+            "title": "Silky Red Swearhirt ",
+            "img": "ass2.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 3,
+            "title": "Silky Red Swearhirt ",
+            "img": "ass3.jpg",
+            "price": 127.00
+        },
+        {
+            "id": 4,
+            "title": "Silky Red Swearhirt ",
+            "img": "ass4.jpg",
+            "price": 127.00
+        }
+    ]
+}
